@@ -1,0 +1,1 @@
+This method takes an average score of the Random Forest Classifier and the XGBoost Classifier.
