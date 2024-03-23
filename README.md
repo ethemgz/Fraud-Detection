@@ -1,0 +1,1 @@
+This project aims to detect fraud activities on an online shopping data.
